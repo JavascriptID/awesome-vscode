@@ -152,6 +152,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Eva Theme by fisheva](#eva-theme-by-fisheva)
   - [Fairyfloss by nopjmp and sailorhg](#fairy-floss-by-nopjmp-and-sailorhg)
   - [GitHub Theme by Thomas Pink](#github-theme-by-thomas-pink)
+  - [Jellybeans Theme by Dimitar Nonov](#jellybeans-theme-by-dimitar-nonov)
   - [Material Palenight Theme by whizkydee](#material-palenight-theme-by-whizkydee)
   - [Material Theme by Mattia Astorino](#material-theme-by-mattia-astorino)
   - [Mno by u29dc](#mno-by-u29dc)
@@ -194,7 +195,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Bond](https://marketplace.visualstudio.com/items?itemName=yiwwan.vscode-bond)
 - [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
 - [Dart](https://marketplace.visualstudio.com/items?itemName=Dart-Code.dart-code)
-- [Dockerfile](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
+- [Dockerfile](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [EJS](https://marketplace.visualstudio.com/items?itemName=QassimFarid.ejs-language-support)
 - [Elixir](https://marketplace.visualstudio.com/items?itemName=mjmcloug.vscode-elixir)
 - [Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm)
@@ -215,7 +216,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Perl HTML-Template](https://marketplace.visualstudio.com/items?itemName=viatsko.perl-html-template)
 - [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
-- [Scala](https://marketplace.visualstudio.com/items?itemName=itryapitsin.Scala)
+- [Scala](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala)
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
@@ -280,7 +281,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [C/C++ Clang Command Adapter](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 - [CQuery](https://github.com/cquery-project/vscode-cquery) - [C/C++ language server](https://github.com/cquery-project/cquery) supporting multi-million line code base, powered by libclang. Cross references, completion, diagnostics, semantic highlighting and more.
 
-## C\#
+## C\#, ASP .NET and .NET Core
 
 - [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp) - C# extension by [Microsoft](https://www.microsoft.com), read [official documentation](https://code.visualstudio.com/docs/languages/csharp) for the details
 
@@ -293,6 +294,14 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [MSBuild Project Tools](https://marketplace.visualstudio.com/items?itemName=tintoy.msbuild-project-tools)
 
 ![MSBuild Project Tools](https://raw.githubusercontent.com/tintoy/msbuild-project-tools-vscode/master/docs/images/extension-in-action.gif)
+
+- [VSCode Solution Explorer](https://marketplace.visualstudio.com/items?itemName=fernandoescolar.vscode-solution-explorer)
+
+![VSCode Solution Explorer](https://raw.githubusercontent.com/fernandoescolar/vscode-solution-explorer/master/images/vscode-solution-explorer-2.gif)
+
+- [.NET Core Test Explorer](https://marketplace.visualstudio.com/items?itemName=formulahendry.dotnet-test-explorer)
+
+![.NET Core Test Explorer](https://raw.githubusercontent.com/formulahendry/vscode-dotnet-test-explorer/master/images/test-explorer-065.gif)
 
 ## Clojure
 
@@ -1032,6 +1041,14 @@ GitHub Theme for Visual Studio Code.
 
 <a href="https://vscodethemes.com/e/thomaspink.theme-github">
   <img src="./themes/screenshots/thomaspink.theme-github.png" width="600" />
+</a>
+
+### [Jellybeans Theme by Dimitar Nonov](https://vscodethemes.com/e/DimitarNonov.jellybeans-theme)
+
+Jellybeans Theme for Visual Studio Code.
+
+<a href="https://vscodethemes.com/e/DimitarNonov.jellybeans-theme">
+  <img src="./themes/screenshots/jellybeans-theme.png" width="600" />
 </a>
 
 ### [Material Palenight Theme by whizkydee](https://vscodethemes.com/e/whizkydee.material-palenight-theme)
