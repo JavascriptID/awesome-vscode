@@ -81,6 +81,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
   - [Dotnet Core Test Explorer](#dotnet-core-test-explorer)
+  - [i18n Ally](#i18n-ally)
   - [Instant Markdown](#instant-markdown)
   - [npm Intellisense](#npm-intellisense)
   - [Partial Diff](#partial-diff)
@@ -90,6 +91,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [PrintCode](#printcode)
   - [Project Manager](#project-manager)
   - [REST Client](#rest-client)
+  - [Remote Development](#remote-development)
   - [Remote VSCode](#remote-vscode)
   - [Settings Sync](#settings-sync)
   - [Todo Tree](#todo-tree)
@@ -633,6 +635,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 ![View and run your .NET Core tests directly in the editor animation](https://raw.githubusercontent.com/formulahendry/vscode-dotnet-test-explorer/master/images/test-explorer.gif)
 
+## [i18n Ally](https://marketplace.visualstudio.com/items?itemName=antfu.i18n-ally)
+
+> 🌍 All in one i18n extension for VSCode
+
+![i18n Ally](https://raw.githubusercontent.com/antfu/i18n-ally/master/screenshots/overview.png)
+
 ## [Instant Markdown](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
 
 >Simply, edit markdown documents in vscode and instantly preview it in your browser as you type.
@@ -681,6 +689,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > Easily switch between projects.
 
 ![Switch between projects screenshot](https://raw.githubusercontent.com/alefragnani/vscode-project-manager/master/images/project-manager-commands.png)
+
+## [Remote Development](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)
+
+> Allows users to open any folder in a container, on a remote machine, container or in Windows Subsystem for Linux(WSL) and take advantage of VS Code's full feature set.
+
+![Remote SSH extension at work](https://microsoft.github.io/vscode-remote-release/images/ssh-readme.gif)
 
 ## [Remote VSCode](https://marketplace.visualstudio.com/items?itemName=rafaelmaiolla.remote-vscode)
 
