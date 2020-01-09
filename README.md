@@ -30,7 +30,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
     - [Bash IDE](#bash-ide)
     - [Bash Debug](#bash-debug)
   - [C++](#c)
-  - [C#](#c)
+  - [C#](#c-asp-net-and-net-core)
   - [Clojure](#clojure)
   - [CSS](#css)
   - [Go](#go)
@@ -42,6 +42,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Markdown](#markdown)
     - [markdownlint](#markdownlint)
     - [Markdown All in one](#markdown-all-in-one)
+    - [Markdown Emoji](#markdown-emoji)
   - [PHP](#php)
     - [IntelliSense](#intellisense)
     - [Laravel](#laravel)
@@ -62,6 +63,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Create tests](#create-tests)
   - [Deploy](#deploy)
   - [Duplicate Action](#duplicate-action)
+  - [Error Lens](#error-lens)
   - [ES7 React/Redux/GraphQL/React-Native snippets](#es7-reactreduxgraphqlreact-native-snippets)
   - [Gi](#gi)
   - [Git History](#git-history)
@@ -75,6 +77,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Gradle Tasks](#gradle-tasks)
   - [Icon Fonts](#icon-fonts)
   - [Import Cost](#import-cost)
+  - [Jira and Bitbucket](#jira-and-bitbucket)
   - [JS Parameter Annotations](#js-parameter-annotations)
   - [Jumpy](#jumpy)
   - [Kanban](#kanban)
@@ -233,6 +236,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
+- [Wenyan](https://github.com/antfu/wenyan-lang-vscode)
 - [Zephir](https://marketplace.visualstudio.com/items?itemName=zephir-lang.zephir)
 
 # Migrating from other editors
@@ -315,10 +319,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ## Clojure
 
-### [Calva](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode)
+### [Calva](https://marketplace.visualstudio.com/items?itemName=betterthantomorrow.calva)
 > Integrated REPL, linting, inline eval, test runner, and more. Powered by Cider & nRepl.
 
-![Calva](https://github.com/BetterThanTomorrow/calva/blob/master/assets/howto/evaluate.gif)
+![Calva](https://raw.githubusercontent.com/BetterThanTomorrow/calva/master/assets/howto/top-level-comment-eval.gif)
 
 ## CSS
 
@@ -371,6 +375,7 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/avajs/ava).
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/prettier/prettier-vscode).
 - [Schema.org Snippets](https://marketplace.visualstudio.com/items?itemName=austinleegordon.vscode-schema-dot-org) - Snippets for [Schema.org](https://schema.org/).
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) - Spelling Checker for Visual Studio Code.
 
 ### Facebook Flow
 
@@ -397,6 +402,11 @@ See the difference between these two [here](https://github.com/michaelgmcd/vscod
 > All-in-one markdown plugin (keyboard shortcuts, table of contents, auto preview, list editing and more)
 
 ![Markdown All in One](https://user-images.githubusercontent.com/10897048/47027336-d8a9ac80-d199-11e8-9836-b8dbc4a97d1a.gif)
+
+### [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)
+> Adds emoji syntax support to VS Code's built-in Markdown preview
+
+![Markdown Emoji](https://raw.githubusercontent.com/mjbvz/vscode-markdown-emoji/master/docs/example.png)
 
 ## PHP
 
@@ -529,6 +539,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 
 > Ability to duplicate files and directories.
 
+## [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+
+> Show language diagnostics inline (errors/warnings/...).
+
+![error lens demo gif](https://user-images.githubusercontent.com/9638156/71784742-de421b00-3007-11ea-8862-8c6ea2836202.gif)
+
 ## [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
 
 > Provides Javascript and React/Redux snippets in ES7
@@ -600,6 +616,12 @@ To enable Emmet support in .twig files, you'll need to have the following in you
 > This extension will display inline in the editor the size of the imported package. The extension utilizes webpack with babili-webpack-plugin in order to detect the imported size.
 
 ![Import Cost Screenshot](https://file-wkbcnlcvbn.now.sh/import-cost.gif)
+
+## [Jira and Bitbucket](https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode)
+
+> Bringing the power of Jira and Bitbucket to VS Code - With Atlassian for VS Code you can create and view issues, start work on issues, create pull requests, do code reviews, start builds, get build statuses and more!
+
+![Jira and Bitbucket workflow](https://bitbucket.org/atlassianlabs/atlascode/raw/master/.readme/dev-workflow.gif)
 
 ## [JS Parameter Annotations](https://marketplace.visualstudio.com/items?itemName=lannonbr.vscode-js-annotations)
 
